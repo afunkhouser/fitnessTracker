@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
 
+## Deployed application
+https://afunkhouser-fitnesstracker.herokuapp.com/?id=61c2799d0ed4840016f6fd32
+
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
